@@ -20,21 +20,24 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://mattermost-heroku-test.herokuapp.com/login')
 
-WebUI.setText(findTestObject('Page_Mattermost/input_All team communication in one place s_703ef5'), 'cabcaber@gmail.com')
+WebUI.setText(findTestObject('Page_Mattermost/input_All team communication in one place s_703ef5'), 'cabcaber')
 
 WebUI.setEncryptedText(findTestObject('Page_Mattermost/input_All team communication in one place s_2f2733'), 'Ax++UeJEJOMdo+ATQUlG7R+/7ExWYIqDwSMYZeNULQQzQQL5Wywj9g==')
 
-WebUI.sendKeys(findTestObject('Page_Mattermost/input_All team communication in one place s_2f2733'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Page_Mattermost/button_Sign in'))
 
-WebUI.click(findTestObject('Page_Mattermost/span_Create a new team'))
+WebUI.click(findTestObject('Object Repository/Page_Town Square - this is me Mattermost/path'))
 
-WebUI.setText(findTestObject('Page_Mattermost/input_Team Name_teamNameInput'), 'this is me')
+WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/a_Create a New Team'))
 
-WebUI.click(findTestObject('Page_Mattermost/button_Next'))
+WebUI.setText(findTestObject('Page_Town Square - this is me Mattermost/input_Team Name_teamNameInput'), 'this is me')
 
-WebUI.setText(findTestObject('Page_Mattermost/input_httpmattermost-heroku-testherokuappco_309041'), '')
+WebUI.click(findTestObject('Object Repository/Page_Town Square - this is me Mattermost/button_Next'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mattermost/span_Finish'))
+WebUI.setText(findTestObject('Object Repository/Page_Town Square - this is me Mattermost/input_httpmattermost-heroku-testherokuappco_309041'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/Page_Town Square - this is me Mattermost/span_Finish'))
 
 WebUI.closeBrowser()
 
