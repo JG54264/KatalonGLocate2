@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>longPassword</name>
+   <name>tooShortUsername</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f4754042-9bcf-417e-a099-e78fb7c16abd</testCaseGuid>
+   <testCaseGuid>7cbd3629-2691-4a43-8632-0f59fc8f03b5</testCaseGuid>
 </TestCaseEntity>

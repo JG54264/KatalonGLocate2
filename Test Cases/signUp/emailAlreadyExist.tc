@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>longPassword</name>
+   <name>emailAlreadyExist</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f4754042-9bcf-417e-a099-e78fb7c16abd</testCaseGuid>
+   <testCaseGuid>de65ff97-8d49-4351-9a54-00839df8239f</testCaseGuid>
 </TestCaseEntity>

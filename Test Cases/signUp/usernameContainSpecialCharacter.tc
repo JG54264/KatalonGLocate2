@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>longPassword</name>
+   <name>usernameContainSpecialCharacter</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f4754042-9bcf-417e-a099-e78fb7c16abd</testCaseGuid>
+   <testCaseGuid>481f2d28-7ee7-41b7-bf78-8f88bf10423d</testCaseGuid>
 </TestCaseEntity>
