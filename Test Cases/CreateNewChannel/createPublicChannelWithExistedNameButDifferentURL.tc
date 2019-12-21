@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>createPublicChannelWithExistedNameButDifferentURL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f784bf69-4918-4276-a263-835e2b42af74</testCaseGuid>
+</TestCaseEntity>

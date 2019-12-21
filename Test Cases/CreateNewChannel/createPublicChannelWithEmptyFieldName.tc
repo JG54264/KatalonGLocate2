@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>createPublicChannelWithEmptyFieldName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbda74c7-be36-4492-bcae-952294922006</testCaseGuid>
+</TestCaseEntity>
