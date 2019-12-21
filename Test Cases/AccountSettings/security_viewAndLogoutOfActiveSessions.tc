@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>security_viewAndLogoutOfActiveSessions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59e44bcb-1b0a-4618-a230-75b37e389299</testCaseGuid>
+</TestCaseEntity>
