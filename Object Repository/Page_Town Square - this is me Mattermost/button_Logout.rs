@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>svg</name>
+   <name>button_Logout</name>
    <tag></tag>
-   <elementGuidId>9906747f-a862-4023-a04e-5ea90d285ba9</elementGuidId>
+   <elementGuidId>24985302-da7b-4d58-81cf-ac6bc72d3a05</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='@cabcaber'])[1]/following::*[name()='svg'][1]</value>
+         <value>//li[@id='logout']/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,90 +17,76 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>svg</value>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>width</name>
+      <name>class</name>
       <type>Main</type>
-      <value>16px</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>height</name>
-      <type>Main</type>
-      <value>10px</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>viewBox</name>
-      <type>Main</type>
-      <value>0 0 16 10</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>version</name>
-      <type>Main</type>
-      <value>1.1</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>icon</value>
+      <value>style--none</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Menu Icon</value>
+      <value>Logout</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headerInfo&quot;)/button[@class=&quot;style--none sidebar-header-dropdown__icon&quot;]/span[1]/svg[1]</value>
+      <value>id(&quot;logout&quot;)/button[@class=&quot;style--none&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='@cabcaber'])[1]/following::*[name()='svg'][1]</value>
+      <value>//li[@id='logout']/button</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='this is me'])[2]/following::*[name()='svg'][1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Mattermost'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='More unreads'])[1]/preceding::*[name()='svg'][1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Apps'])[1]/following::button[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='More unreads'])[2]/preceding::*[name()='svg'][2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More unreads'])[1]/preceding::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='@dnhuyapcs'])[1]/following::*[name()='svg'][1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More unreads'])[2]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[25]/button</value>
    </webElementXpaths>
 </WebElementEntity>

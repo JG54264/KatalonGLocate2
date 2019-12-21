@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>security_endSession</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a41c65a7-ef71-4400-9025-c8946b3fc7b4</testCaseGuid>
+</TestCaseEntity>
