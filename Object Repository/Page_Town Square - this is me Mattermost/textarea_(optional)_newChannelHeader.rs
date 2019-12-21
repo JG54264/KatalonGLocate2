@@ -31,7 +31,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control no-resize a11y--active a11y--focused</value>
+      <value>form-control no-resize</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

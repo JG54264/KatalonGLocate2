@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>createPrivateChannelWithAppropriateName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09d0ba5d-42be-4827-ad7e-2b10aa8ff508</testCaseGuid>
+</TestCaseEntity>
