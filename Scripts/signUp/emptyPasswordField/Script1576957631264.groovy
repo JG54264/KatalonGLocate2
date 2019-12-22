@@ -22,7 +22,7 @@ WebUI.navigateToUrl('http://mattermost-heroku-test.herokuapp.com/signup_email')
 
 WebUI.setText(findTestObject('Object Repository/Page_Mattermost/input_concat(What  s your email address)_email'), 'cabcaber@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mattermost/input_Choose your username_name'), 'cabcaber')
+WebUI.setText(findTestObject('Object Repository/Page_Mattermost/input_Choose your username_name'), username)
 
 WebUI.click(findTestObject('Object Repository/Page_Mattermost/span_Create Account'))
 

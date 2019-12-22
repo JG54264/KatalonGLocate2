@@ -35,7 +35,7 @@ WebUI.setText(findTestObject('Page_Town Square - this is me Mattermost/input_Tea
 WebUI.sendKeys(findTestObject('Page_Town Square - this is me Mattermost/input_Team Name_teamNameInput'), Keys.chord(Keys.ENTER))
 
 WebUI.setText(findTestObject('Page_Town Square - this is me Mattermost/input_httpmattermost-heroku-testherokuappco_309041'), 
-    'this-is-mE')
+    url)
 
 WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_Finish'))
 

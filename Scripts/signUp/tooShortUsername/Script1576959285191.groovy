@@ -24,7 +24,7 @@ WebUI.setText(findTestObject('Page_Mattermost/input_concat(What  s your email ad
 
 WebUI.setEncryptedText(findTestObject('Page_Mattermost/input_Choose your password_password'), 'M5sLmkAuvbCBaQfT+8o5Z0KROOoW4cPy')
 
-WebUI.setText(findTestObject('Page_Mattermost/input_Choose your username_name'), 'c')
+WebUI.setText(findTestObject('Page_Mattermost/input_Choose your username_name'), username)
 
 WebUI.click(findTestObject('Object Repository/Page_Mattermost/button_Create Account'))
 

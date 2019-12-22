@@ -20,7 +20,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://mattermost-heroku-test.herokuapp.com/signup_email')
 
-WebUI.setText(findTestObject('Page_Mattermost/input_Choose your username_name'), 'cabcaber')
+WebUI.setText(findTestObject('Page_Mattermost/input_Choose your username_name'), Username)
 
 WebUI.setEncryptedText(findTestObject('Page_Mattermost/input_Choose your password_password'), 'EXCBkqL1uhcJjMOcpvnaOw==')
 
