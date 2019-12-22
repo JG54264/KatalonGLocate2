@@ -6,9 +6,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>14917d7c-8cdd-4691-9b6e-261dece4107d</dataFileGUID>
-   <dataSourceUrl>C:\Users\DELL\Desktop\New folder (4)\signup_username_short.xlsx</dataSourceUrl>
+   <dataSourceUrl>Data Files/signup_username_short.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>
