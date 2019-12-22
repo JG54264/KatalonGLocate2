@@ -26,13 +26,13 @@ WebUI.setEncryptedText(findTestObject('Page_Mattermost/input_All team communicat
 
 WebUI.click(findTestObject('Page_Mattermost/button_Sign in'))
 
-WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/path'))
+WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/svg'))
 
 WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/a_Create a New Team'))
 
 WebUI.setText(findTestObject('Page_Town Square - this is me Mattermost/input_Team Name_teamNameInput'), 'this is me')
 
-WebUI.sendKeys(findTestObject('Page_Town Square - this is me Mattermost/input_Team Name_teamNameInput'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_Next'))
 
 WebUI.setText(findTestObject('Page_Town Square - this is me Mattermost/input_httpmattermost-heroku-testherokuappco_309041'), 
     '1this-is-me')

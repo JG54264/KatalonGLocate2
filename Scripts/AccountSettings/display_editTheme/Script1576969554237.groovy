@@ -30,19 +30,21 @@ WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/svg'))
 
 WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/button_Account Settings'))
 
-WebUI.click(findTestObject('Object Repository/Page_Town Square - this is me Mattermost/button_Display'))
+WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/button_Display'))
 
 WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Town Square - this is me Mattermost/img_Organization_img-responsive'))
+WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/img_Organization_img-responsive'))
 
 WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_Save'))
 
 WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Town Square - this is me Mattermost/img_Theme Colors_img-responsive'))
+WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/img_Theme Colors_img-responsive'))
 
 WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_Save'))
+
+WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_'))
 
 WebUI.closeBrowser()
 

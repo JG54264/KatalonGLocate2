@@ -94,7 +94,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/create_team')]</value>
+      <value>(//a[contains(@href, '/create_team')])[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,5 +102,12 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[12]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/create_team')]</value>
    </webElementXpaths>
 </WebElementEntity>

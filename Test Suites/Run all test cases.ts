@@ -131,12 +131,6 @@
       <testCaseId>Test Cases/signUp/usernameContainSpecialCharacter</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>f9376073-0e65-4a85-ae41-33bd58fb8eb5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/AccountSettings/display_clockDisplay</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>d6aa1525-50cb-4031-864c-7095f56cb06e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -378,11 +372,5 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Message/normal</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>7f80d0e0-7f3d-471e-ab92-65076e4a5165</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/AccountSettings/general_changeUsername</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

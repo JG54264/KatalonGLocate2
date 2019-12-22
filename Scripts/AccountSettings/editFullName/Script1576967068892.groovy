@@ -38,6 +38,14 @@ WebUI.setText(findTestObject('Page_Town Square - this is me Mattermost/input_Las
 
 WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_Save'))
 
+WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_Edit'))
+
+WebUI.setText(findTestObject('Page_Town Square - this is me Mattermost/input_First Name_firstName'), '')
+
+WebUI.setText(findTestObject('Page_Town Square - this is me Mattermost/input_Last Name_lastName'), '')
+
+WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_Save'))
+
 WebUI.click(findTestObject('Page_Town Square - this is me Mattermost/span_'))
 
 WebUI.closeBrowser()
